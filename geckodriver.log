@@ -1,0 +1,14 @@
+1710881495239	geckodriver	INFO	Listening on 127.0.0.1:64959
+1710881498298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\yjdid2\\AppData\\Local\\Temp\\rust_mozprofilezULoZY"
+console.error: Enterprise Policies: 
+  Unknown policy: FlashPlugin
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710881500210	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710881502398	Marionette	INFO	Listening on port 64979
+Read port: 64979
+1710881503396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1710881508353	Marionette	INFO	Stopped listening on port 64979
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]

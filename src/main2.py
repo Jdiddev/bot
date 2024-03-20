@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.firefox import GeckoDriverManager
 
-from credentials import username as usr, password as passw
+from credentiel import username as usr, password as passw
 
 class Bot:
     def __init__(self, username, password):

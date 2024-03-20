@@ -11,3 +11,48 @@ Read port: 62701
 Dynamically enable window occlusion 1
 console.error: "TelemetryScheduler.shutdown - Already shut down"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NS_ERROR_FAILURE
+1710957028759	geckodriver	INFO	Listening on 127.0.0.1:63061
+1710957031838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofilemOlZvq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710957032400	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710957032963	Marionette	INFO	Listening on port 63071
+Read port: 63071
+1710957033270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1710957062516	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1710957261079	Marionette	INFO	Stopped listening on port 63071710957261721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofile9Ey4lK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710957262594	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710957263190	Marionette	INFO	Listening on port 63202
+Read port: 63202
+1710957263593	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i82k4/yc/l/fr_FR/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+1710957292606	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1710957296289	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v3/ym/r/C3P-eUkADda.js?_nc_x=Ij3Wp8lg5Kz, line 30: ReferenceError: window is not defined
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i7oL4/yq/l/makehaste_jhash/PlT-H0vYGHsFmij9an6NPmIGyh6FUuJwYh3n-KMAkBIIVGxjaLeg-EZnubPaZJ5ymWgwTe9azQjeOn8ReVJO9XfpbSLk2-oy8eVdXWtjBR5_mEU1bTA9BaN10V0VFInUvcs3fVj73Xe3BBSqkaf6dE6uJdaHW839irLnRsZMPNOxOH1hyTdlrV5bYEYgTXmzQWmjWXmbj9mHBUbxxX3kdTA2Sv6MwjuNMPAFX--Q0X-Ew65c4LyKXLflvwpqTstujL3eOAVouXWQVrdS4RyXdWO9ODPI6jVB6eqP9lhqISWFJjmJbRroRohrsqKkblf.js?_nc_x=Ij3Wp8lg5Kz, line 439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yV/l/makehaste_jhash/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.instagram.com."
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v3/ym/r/C3P-eUkADda.js?_nc_x=Ij3Wp8lg5Kz, line 30: ReferenceError: window is not defined
+JavaScript error: , line 0: NS_ERROR_FAILURE
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 350: TypeError: can't access dead object
+JavaScript error: chrome://global/content/elements/videocontrols.js, line 3290: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/PictureInPictureChild.sys.mjs, line 398: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yV/l/makehaste_jhash/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v3/ym/r/C3P-eUkADda.js?_nc_x=Ij3Wp8lg5Kz, line 30: ReferenceError: window is not defined
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ix8E4/yV/l/makehaste_jhash/VGxjaLeg-EZ.js?_nc_x=Ij3Wp8lg5Kz, line 90: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.cdninstagram.com/rsrc.php/v3/ym/r/C3P-eUkADda.js?_nc_x=Ij3Wp8lg5Kz, line 30: ReferenceError: window is not defined
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3idfx4/yR/l/makehaste_jhash/2ss30TCUa5xz-pzS_td3Kwsj0lpme5wnoBYBHirbomYfcAEvp5K4CejEL8psolvHXcF6ngzNsAG86H6X7_0-thwdaPSyoDrZD4WLOsUpXrMqi9p3_-sy888wUXGPHxfRre2T0TwzmpH9rpeeWT0sIbKFFZMfHtfu3G8m7sqTDOqH-X9untKnLdpffkdCrBm7W-qoRD8tj2TlfOqGYD8CiyNkWtaBo4WhHZ3AKvb5J9SfOSylyN2LLy_erdK58Ah4NO7x89PkahSYo1lT0pV_TRefwOLZ3n308LUAKEmGBMnMm7rBgUczvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz, line 707: Script terminated by timeout at:
+f@https://static.cdninstagram.com/rsrc.php/v3idfx4/yR/l/makehaste_jhash/2ss30TCUa5xz-pzS_td3Kwsj0lpme5wnoBYBHirbomYfcAEvp5K4CejEL8psolvHXcF6ngzNsAG86H6X7_0-thwdaPSyoDrZD4WLOsUpXrMqi9p3_-sy888wUXGPHxfRre2T0TwzmpH9rpeeWT0sIbKFFZMfHtfu3G8m7sqTDOqH-X9untKnLdpffkdCrBm7W-qoRD8tj2TlfOqGYD8CiyNkWtaBo4WhHZ3AKvb5J9SfOSylyN2LLy_erdK58Ah4NO7x89PkahSYo1lT0pV_TRefwOLZ3n308LUAKEmGBMnMm7rBgUczvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:707:481
+m@https://static.cdninstagram.com/rsrc.php/v3idfx4/yR/l/makehaste_jhash/2ss30TCUa5xz-pzS_td3Kwsj0lpme5wnoBYBHirbomYfcAEvp5K4CejEL8psolvHXcF6ngzNsAG86H6X7_0-thwdaPSyoDrZD4WLOsUpXrMqi9p3_-sy888wUXGPHxfRre2T0TwzmpH9rpeeWT0sIbKFFZMfHtfu3G8m7sqTDOqH-X9untKnLdpffkdCrBm7W-qoRD8tj2TlfOqGYD8CiyNkWtaBo4WhHZ3AKvb5J9SfOSylyN2LLy_erdK58Ah4NO7x89PkahSYo1lT0pV_TRefwOLZ3n308LUAKEmGBMnMm7rBgUczvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz:707:1131
+
+1710957343182	Marionette	INFO	Stopped listening on port 63202
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: "TelemetryScheduler.shutdown - Already shut down"

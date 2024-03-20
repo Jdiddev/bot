@@ -6,7 +6,7 @@ import random
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from webdriver_manager.firefox import GeckoDriverManager
-from credentials import username as usr, password as passw
+from credential import username as usr, password as passw
 from comment_generator import random_comment
 
 class Bot:
@@ -28,7 +28,7 @@ class Bot:
         bot = self.bot
         bot.get('https://instagram.com/')
         time.sleep(3)
-        print('Navigated to Instagram')
+        print('Navigatefffd to Instagram')
         
         # Accept cookies
         # bot.find_element_by_xpath('/html/body/div[4]/div[1]/div/div[2]/div/div/div/div/div[2]/div/div[3]/div[1]/div/button').click()

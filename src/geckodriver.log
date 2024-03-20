@@ -1,0 +1,13 @@
+1710955678415	geckodriver	INFO	Listening on 127.0.0.1:62691
+1710955681536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\PC\\AppData\\Local\\Temp\\rust_mozprofileNGBIDv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1710955682383	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1710955682971	Marionette	INFO	Listening on port 62701
+Read port: 62701
+1710955683268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1710955704442	Marionette	INFO	Stopped listening on port 62701
+Dynamically enable window occlusion 1
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 570: NS_ERROR_FAILURE

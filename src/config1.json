@@ -1,0 +1,20 @@
+{   "credentiales" : { "user" : "hype.fashiontr" , "password" : "azAZaz123@@" },
+    "tags" : ["#meteo" , "#eartquick"],
+    "links" : { "counts": 980 , "link" :  []},
+    "profil" : "",
+    "daily": {
+        "likes": 1000,
+        "stories": 1000,
+        "story_likes": 600,
+        "comment_likes": 1500,
+        "accounts": 800,
+        "comments": 1000,
+        "commented": 20
+    },
+    "hourly": {
+        "likes": 350,
+        "accounts": 120,
+        "comments": 200
+    },
+    "session_timeout": 3600
+}
